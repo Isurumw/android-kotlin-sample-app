@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Maintenance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- welcome screen -->
+    <string name="txt_sign_up">Sign up on our website at <font fgcolor='#FF5A61'><b><u>awesome.com.au</u></b></font></string>
+    <string name="title_activity_welcome">Android/Kotlin sample application</string>
+    <string name="sub_title_activity_welcome">Write better Android apps faster with Kotlin. Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety.</string>
+    <string name="title_activity_maintenance">Maintenance</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="request_list_fragment_label">Request List Fragment</string>
+    <string name="view_request_fragment_label">View Request Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_main_test">MainActivityTest</string>
+
+</resources>
